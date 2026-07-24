@@ -1,4 +1,5 @@
-# documentation - GenAI
+# documentation - GenAI general architecture
+
 
 
 ```
